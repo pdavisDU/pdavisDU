@@ -20,12 +20,12 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-- Hi, I’m Paul
-- Full-stack coding bootcamp [badge](<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1870b93f-fbf4-4772-97b0-fdef667932f1" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>) from DU
-- looking for a junior web developer position.
-- Currently learning Solidity.
-- Contact me at: pdavisDU@gmail.com
+- Hi, I’m Paul Davis
+- I received my full-stack coding bootcamp [badge](https://www.credly.com/badges/1870b93f-fbf4-4772-97b0-fdef667932f1/public_url) from DU
+- I am looking for a junior web developer position.
+- I am currently learning Solidity.
+- Please contact me at: pdavisDU@gmail.com
 
-<a href="https://www.linkedin.com/in/paul-davis-58663a74/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Samantha Rexroat | LinkedIn" width="30px"/>LinkedIn</a>
+<a href="https://www.linkedin.com/in/paul-davis-58663a74/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Paul Davis | LinkedIn" width="30px"/>LinkedIn</a>
 <br>
 <br>
