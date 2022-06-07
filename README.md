@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-JavaScript React MongoDB CSS3 HTML5 MySQL Apollo-GraphQL Express.js NodeJS Insomnia jQuery JWT Webpack Bootstrap Heroku
+### JavaScript React MongoDB CSS3 HTML5 MySQL Apollo-GraphQL Express.js NodeJS Insomnia jQuery JWT Webpack Bootstrap Heroku
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
